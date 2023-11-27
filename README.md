@@ -48,4 +48,6 @@ A curated list of XAI for time series. Mostly focused on Post-Hoc Explainability
 
 - [**A Deep Dive into Perturbations as Evaluation Technique for Time Series XAI**](https://arxiv.org/pdf/2307.05104), (2023) by *Schlegel, U., & Keim, D. A.*
 - [**Introducing the Attribution Stability Indicator: a Measure for Time Series XAI Attributions**](https://arxiv.org/abs/2310.04178), (2023) by *Schlegel, U., & Keim, D. A. *
+- [**Robust Framework for Explanation Evaluation in Time Series Classification**](https://arxiv.org/abs/2306.05501), (2023) by *Nguyen, T. T., Nguyen, T. L., & Ifrim, G.* [https://github.com/mlgig/amee](https://github.com/mlgig/amee), ![](https://img.shields.io/github/stars/mlgig/amee.svg?style=social)
+- [**Evaluating Explanation Methods for Multivariate Time Series Classification**](https://arxiv.org/abs/2308.15223), (2023) by *Serramazza, D. I., Nguyen, T. T., Nguyen, T. L., & Ifrim, G. * [https://github.com/mlgig/Evaluating-Explanation-Methods-for-MTSC](https://github.com/mlgig/Evaluating-Explanation-Methods-for-MTSC), ![](https://img.shields.io/github/stars/mlgig/Evaluating-Explanation-Methods-for-MTSC.svg?style=social)
 
