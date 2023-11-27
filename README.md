@@ -23,6 +23,8 @@ A curated list of XAI for time series. Mostly focused on Post-Hoc Explainability
 
 - [**Benchmarking Deep Learning Interpretability in Time Series Predictions**](https://arxiv.org/abs/2010.13924) (2020) by *Ismail, A. A., Gunady, M., Corrada Bravo, H., & Feizi, S.* [https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark](https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark), ![](https://img.shields.io/github/stars/ayaabdelsalam91/TS-Interpretability-Benchmark.svg?style=social)
 - [**Agnostic Local Explanation for Time Series Classification**](https://ieeexplore.ieee.org/document/8995349) (2019) by *Guillemé, M., Masson, V., Rozé, L., & Termier, A. *
+- [**TSInsight: A local-global attribution framework for interpretability in time series data**](https://www.mdpi.com/1424-8220/21/21/7373)(2021) by *Siddiqui, S. A., Mercier, D., Dengel, A., & Ahmed, S.*
+- [**Tsviz: Demystification of deep learning models for time-series analysis**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8695734) (2019) by *Siddiqui, S. A., Mercier, D., Munir, M., Dengel, A., & Ahmed, S.* [https://github.com/shoaibahmed/TSViz-Core](https://github.com/shoaibahmed/TSViz-Core), ![](https://img.shields.io/github/stars/shoaibahmed/TSViz-Core.svg?style=social)
 
 ### Counterfactuals 
 - [**TSEvo: Evolutionary counterfactual explanations for time series classification**](https://ieeexplore.ieee.org/abstract/document/10069160) (2022) by *Höllig, J., Kulbach, C., & Thoma, S.* [https://github.com/JHoelli/TSEvo](https://github.com/JHoelli/TSEvo), ![](https://img.shields.io/github/stars/JHoelli/TSEvo.svg?style=social)
