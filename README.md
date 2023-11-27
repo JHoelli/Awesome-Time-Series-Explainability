@@ -9,7 +9,8 @@ A curated list of XAI for time series. Mostly focused on Post-Hoc Explainability
 
 ## Classification 
 
-- [**Understanding Any Time Series Classifier with a Subsequence-based Explainer**](https://dl.acm.org/doi/pdf/10.1145/3624480) , (2023) by *Spinnato, F., Guidotti, R., Monreale, A., Nanni, M., Pedreschi, D., & Giannotti, F.*
+- [**Understanding Any Time Series Classifier with a Subsequence-based Explainer**](https://dl.acm.org/doi/pdf/10.1145/3624480) , (2023) by *Spinnato, F., Guidotti, R., Monreale, A., Nanni, M., Pedreschi, D., & Giannotti, F.* [https://github.com/fspinna/lasts](https://github.com/fspinna/lasts), ![](https://img.shields.io/github/stars/fspinna/lasts.svg?style=social)
+
 - [**Explainable AI for Time Series via Virtual Inspection Layers**](https://arxiv.org/pdf/2303.06365) , (2023) by *Vielhaben, J., Lapuschkin, S., Montavon, G., & Samek, W.*
 - 
 
@@ -19,6 +20,7 @@ A curated list of XAI for time series. Mostly focused on Post-Hoc Explainability
 
 ### Counterfactuals 
 - [**TSEvo: Evolutionary counterfactual explanations for time series classification**](https://ieeexplore.ieee.org/abstract/document/10069160) (2022) by *Höllig, J., Kulbach, C., & Thoma, S.* [https://github.com/JHoelli/TSEvo](https://github.com/JHoelli/TSEvo), ![](https://img.shields.io/github/stars/JHoelli/TSEvo.svg?style=social)
+- [**Instance-based Counterfactual Explanations for Time Series Classification**](https://arxiv.org/abs/2009.13211) (2020) by *Delaney, E., Greene, D., & Keane, M. T.* [https://github.com/e-delaney/Instance-Based_CFE_TSC](https://github.com/e-delaney/Instance-Based_CFE_TSC), ![](https://img.shields.io/github/stars/e-delaney/Instance-Based_CFE_TSC.svg?style=social)
 
 
 
