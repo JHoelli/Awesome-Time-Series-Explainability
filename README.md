@@ -1,9 +1,7 @@
 # Awesome-Time-Series-Explainability
-A curated list of XAI for time series
+A curated list of XAI for time series. Mostly focused on Post-Hoc Explainability.
 
 ## Classification 
-
-### Instrinct 
 
 
 ### Feature Attribution
