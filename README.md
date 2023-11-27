@@ -5,7 +5,7 @@ A curated list of XAI for time series. Mostly focused on Post-Hoc Explainability
 
 ## Surveys
 - [**Explainable AI for time series classification: a review, taxonomy and research directions**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9895252) , (2022) by *A Theissler, F Spinnato, U Schlegel, R Guidotti*
-- [**Explainable artificial intelligence (xai) on timeseries data: A survey**](Explainable artificial intelligence (xai) on timeseries data: A survey) , (2021) by *Rojat, T., Puget, R., Filliat, D., Del Ser, J., Gelin, R., & Díaz-Rodríguez, N.*
+- [**Explainable artificial intelligence (xai) on timeseries data: A survey**](https://arxiv.org/abs/2104.00950) , (2021) by *Rojat, T., Puget, R., Filliat, D., Del Ser, J., Gelin, R., & Díaz-Rodríguez, N.*
 
 ## Classification 
 
