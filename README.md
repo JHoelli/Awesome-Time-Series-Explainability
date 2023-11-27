@@ -23,3 +23,6 @@ A curated list of XAI for time series. Mostly focused on Post-Hoc Explainability
 
 ## Benchmarking 
 - [**A Deep Dive into Perturbations as Evaluation Technique for Time Series XAI**](https://arxiv.org/pdf/2307.05104), (2023) by *Schlegel, U., & Keim, D. A.*
+
+## Libraries 
+- [**TSInterpret: A Python Package for the Interpretability of Time Series Classification**](https://joss.theoj.org/papers/10.21105/joss.05220.pdf) (2023) by *Höllig, J., Kulbach, C., & Thoma, S.*
