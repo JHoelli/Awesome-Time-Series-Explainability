@@ -25,7 +25,6 @@ A curated list of XAI for time series. Mostly focused on Post-Hoc Explainability
 - [**Benchmarking Deep Learning Interpretability in Time Series Predictions**](https://arxiv.org/abs/2010.13924) (2020) by *Ismail, A. A., Gunady, M., Corrada Bravo, H., & Feizi, S.* [https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark](https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark), ![](https://img.shields.io/github/stars/ayaabdelsalam91/TS-Interpretability-Benchmark.svg?style=social)
 - [**Agnostic Local Explanation for Time Series Classification**](https://ieeexplore.ieee.org/document/8995349) (2019) by *Guillemé, M., Masson, V., Rozé, L., & Termier, A. *
 - [**TSInsight: A local-global attribution framework for interpretability in time series data**](https://www.mdpi.com/1424-8220/21/21/7373)(2021) by *Siddiqui, S. A., Mercier, D., Dengel, A., & Ahmed, S.*
-- [**Tsviz: Demystification of deep learning models for time-series analysis**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8695734) (2019) by *Siddiqui, S. A., Mercier, D., Munir, M., Dengel, A., & Ahmed, S.* [https://github.com/shoaibahmed/TSViz-Core](https://github.com/shoaibahmed/TSViz-Core), ![](https://img.shields.io/github/stars/shoaibahmed/TSViz-Core.svg?style=social)
 - [**timeXplain -- A Framework for Explaining the Predictions of Time Series Classifiers**](https://arxiv.org/abs/2007.07606) (2019) by *Mujkanovic, F., Doskoč, V., Schirneck, M., Schäfer, P., & Friedrich, T.* [https://github.com/LoadingByte/timeXplain](https://github.com/LoadingByte/timeXplain), ![](https://img.shields.io/github/stars/LoadingByte/timeXplain.svg?style=social)
 
 ### Counterfactuals 
@@ -43,6 +42,9 @@ A curated list of XAI for time series. Mostly focused on Post-Hoc Explainability
 - [**Counterfactual Explanations for Time Series Forecasting**](https://arxiv.org/abs/2310.08137) (2023) by *Wang, Z., Miliou, I., Samsten, I., & Papapetrou, P.*  [https://github.com/zhendong3wang/counterfactual-explanations-for-forecasting](https://github.com/zhendong3wang/counterfactual-explanations-for-forecasting), ![](https://img.shields.io/github/stars/zhendong3wang/counterfactual-explanations-for-forecasting.svg?style=social)
 - [**Explaining time series predictions with dynamic masks**](http://proceedings.mlr.press/v139/crabbe21a/crabbe21a.pdf) (2021) by *Crabbé, J., & Van Der Schaar, M.*  [https://github.com/JonathanCrabbe/Dynamask](https://github.com/JonathanCrabbe/Dynamask), ![](https://img.shields.io/github/stars/JonathanCrabbe/Dynamask.svg?style=social)
 - [**TEMPORAL DEPENDENCIES IN FEATURE IMPORTANCE FOR TIME SERIES PREDICTION**](https://www.cs.toronto.edu/~mvolkovs/ICLR23_WinIT.pdf) (2023) by *Leung, K. K., Rooke, C., Smith, J., Zuberi, S., & Volkovs, M.*  [https://github.com/layer6ai-labs/WinIT](https://github.com/layer6ai-labs/WinIT), ![](https://img.shields.io/github/stars/layer6ai-labs/WinIT.svg?style=social)
+
+## Classification and Regression / Forcasting 
+- [**Tsviz: Demystification of deep learning models for time-series analysis**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8695734) (2019) by *Siddiqui, S. A., Mercier, D., Munir, M., Dengel, A., & Ahmed, S.* [https://github.com/shoaibahmed/TSViz-Core](https://github.com/shoaibahmed/TSViz-Core), ![](https://img.shields.io/github/stars/shoaibahmed/TSViz-Core.svg?style=social)
 
   
 
