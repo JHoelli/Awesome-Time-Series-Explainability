@@ -1,5 +1,5 @@
 # Awesome-Time-Series-Explainability
-A list of XAI for time series. This list focuses (currently) on Post-Hoc Explainability.
+A list of XAI for time series. This list focuses (currently) on Post-Hoc Explainability, including paper and github links.
 ![Overview](https://github.com/fzi-forschungszentrum-informatik/TSInterpret/blob/main/docs/img/Post-Hoc.png)
 
 ## Outline 
