@@ -10,6 +10,7 @@ A curated list of XAI for time series. Mostly focused on Post-Hoc Explainability
 ## Classification 
 
 - [**Understanding Any Time Series Classifier with a Subsequence-based Explainer**](https://dl.acm.org/doi/pdf/10.1145/3624480) , (2023) by *Spinnato, F., Guidotti, R., Monreale, A., Nanni, M., Pedreschi, D., & Giannotti, F.*
+- 
 
 ### Feature Attribution
 ### Counterfactuals 
@@ -18,3 +19,5 @@ A curated list of XAI for time series. Mostly focused on Post-Hoc Explainability
 ## Regression
 ## Benchmarking 
 
+
+- [**A Deep Dive into Perturbations as Evaluation Technique for Time Series XAI**](https://arxiv.org/pdf/2307.05104), (2023) by *Schlegel, U., & Keim, D. A.*
