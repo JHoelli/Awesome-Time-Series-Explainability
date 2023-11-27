@@ -3,6 +3,8 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 <img src="https://github.com/fzi-forschungszentrum-informatik/TSInterpret/blob/main/docs/img/Post-Hoc.png" width="600", class="center"  />
 
 ## Outline 
+- [Surveys](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Surveys)
+- [Libraries ](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Libraries)
 
 ## Surveys
 - [**Explainable AI for time series classification: a review, taxonomy and research directions**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9895252) , (2022) by *A Theissler, F Spinnato, U Schlegel, R Guidotti*
