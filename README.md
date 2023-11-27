@@ -5,6 +5,10 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 ## Outline 
 - [Surveys](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Surveys)
 - [Libraries ](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Libraries)
+- [Classification ](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Classification)
+- [Regression / Forecasting](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Regression-/-Forecasting)
+- [Classification and Regression / Forcasting](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Classification-and-Regression-/-Forcasting)
+- [Benchmarking and Evaluation](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Benchmarking-and-Evaluation)
 
 ## Surveys
 - [**Explainable AI for time series classification: a review, taxonomy and research directions**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9895252) , (2022) by *A Theissler, F Spinnato, U Schlegel, R Guidotti*
