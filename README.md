@@ -35,6 +35,7 @@ A curated list of XAI for time series. Mostly focused on Post-Hoc Explainability
 
 ### Frameworks (Multiple Explanation Types)
 - [**Understanding Any Time Series Classifier with a Subsequence-based Explainer**](https://dl.acm.org/doi/pdf/10.1145/3624480) , (2023) by *Spinnato, F., Guidotti, R., Monreale, A., Nanni, M., Pedreschi, D., & Giannotti, F.* [https://github.com/fspinna/lasts](https://github.com/fspinna/lasts), ![](https://img.shields.io/github/stars/fspinna/lasts.svg?style=social)
+- [**TimeSHAP: Explaining Recurrent Models through Sequence Perturbations**](https://arxiv.org/abs/2012.00073), (2020) by *Bento, J., Saleiro, P., Cruz, A. F., Figueiredo, M. A., & Bizarro, P.*, [https://github.com/feedzai/timeshap](https://github.com/feedzai/timeshap), ![](https://img.shields.io/github/stars/feedzai/timeshap.svg?style=social)
   
 
 
