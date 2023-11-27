@@ -33,7 +33,8 @@ A curated list of XAI for time series. Mostly focused on Post-Hoc Explainability
 
 ## Regression / Forecasting
 
-- [**TsSHAP: Robust model agnostic feature-based explainability for univariate time series forecasting**](https://arxiv.org/pdf/2303.12316.pdf) (2023) by *Raykar, V. C., Jati, A., Mukherjee, S., Aggarwal, N., Sarpatwar, K., Ganapavarapu, G., & Vaculin, R.* 
+- [**TsSHAP: Robust model agnostic feature-based explainability for univariate time series forecasting**](https://arxiv.org/pdf/2303.12316.pdf) (2023) by *Raykar, V. C., Jati, A., Mukherjee, S., Aggarwal, N., Sarpatwar, K., Ganapavarapu, G., & Vaculin, R.*
+- [**TS-MULE: Local Interpretable Model-Agnostic Explanations for Time Series Forecast Models**](https://link.springer.com/chapter/10.1007/978-3-030-93736-2_1) (2021) by *Schlegel, U., Vo, D. L., Keim, D. A., & Seebacher, D.*
   
 ## Feature Attribution
 
