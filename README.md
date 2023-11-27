@@ -11,6 +11,7 @@ A curated list of XAI for time series. Mostly focused on Post-Hoc Explainability
 ## Libraries 
 
 - [**TSInterpret: A Python Package for the Interpretability of Time Series Classification**](https://joss.theoj.org/papers/10.21105/joss.05220.pdf) (2023) by *Höllig, J., Kulbach, C., & Thoma, S.* [https://github.com/fzi-forschungszentrum-informatik/TSInterpret](https://github.com/fzi-forschungszentrum-informatik/TSInterpret), ![](https://img.shields.io/github/stars/fzi-forschungszentrum-informatik/TSInterpret.svg?style=social)
+- [**Time Interpret: a Unified Model Interpretability Library for Time Series**](https://arxiv.org/abs/2306.02968) (2023) by *Enguehard, J.* [https://github.com/josephenguehard/time_interpret](https://github.com/josephenguehard/time_interpret), ![](https://img.shields.io/github/stars/josephenguehard/time_interpret.svg?style=social)
 
 ## Classification 
 
