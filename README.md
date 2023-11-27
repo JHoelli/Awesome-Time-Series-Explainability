@@ -15,10 +15,7 @@ A curated list of XAI for time series. Mostly focused on Post-Hoc Explainability
 
 ## Classification 
 
-- [**Understanding Any Time Series Classifier with a Subsequence-based Explainer**](https://dl.acm.org/doi/pdf/10.1145/3624480) , (2023) by *Spinnato, F., Guidotti, R., Monreale, A., Nanni, M., Pedreschi, D., & Giannotti, F.* [https://github.com/fspinna/lasts](https://github.com/fspinna/lasts), ![](https://img.shields.io/github/stars/fspinna/lasts.svg?style=social)
-
-- [**Explainable AI for Time Series via Virtual Inspection Layers**](https://arxiv.org/pdf/2303.06365) , (2023) by *Vielhaben, J., Lapuschkin, S., Montavon, G., & Samek, W.*
-- 
+  
 
 ### Feature Attribution
 
@@ -26,6 +23,7 @@ A curated list of XAI for time series. Mostly focused on Post-Hoc Explainability
 - [**Agnostic Local Explanation for Time Series Classification**](https://ieeexplore.ieee.org/document/8995349) (2019) by *Guillemé, M., Masson, V., Rozé, L., & Termier, A. *
 - [**TSInsight: A local-global attribution framework for interpretability in time series data**](https://www.mdpi.com/1424-8220/21/21/7373)(2021) by *Siddiqui, S. A., Mercier, D., Dengel, A., & Ahmed, S.*
 - [**timeXplain -- A Framework for Explaining the Predictions of Time Series Classifiers**](https://arxiv.org/abs/2007.07606) (2019) by *Mujkanovic, F., Doskoč, V., Schirneck, M., Schäfer, P., & Friedrich, T.* [https://github.com/LoadingByte/timeXplain](https://github.com/LoadingByte/timeXplain), ![](https://img.shields.io/github/stars/LoadingByte/timeXplain.svg?style=social)
+- [**Explainable AI for Time Series via Virtual Inspection Layers**](https://arxiv.org/pdf/2303.06365) , (2023) by *Vielhaben, J., Lapuschkin, S., Montavon, G., & Samek, W.*
 
 ### Counterfactuals 
 - [**TSEvo: Evolutionary counterfactual explanations for time series classification**](https://ieeexplore.ieee.org/abstract/document/10069160) (2022) by *Höllig, J., Kulbach, C., & Thoma, S.* [https://github.com/JHoelli/TSEvo](https://github.com/JHoelli/TSEvo), ![](https://img.shields.io/github/stars/JHoelli/TSEvo.svg?style=social)
@@ -33,6 +31,10 @@ A curated list of XAI for time series. Mostly focused on Post-Hoc Explainability
 - [**Counterfactual explanations for multivariate time series**](https://ieeexplore.ieee.org/document/9462056) (2021) by *Ates, E., Aksar, B., Leung, V. J., & Coskun, A. K.* [https://github.com/peaclab/CoMTE](https://github.com/peaclab/CoMTE), ![](https://img.shields.io/github/stars/peaclab/CoMTE.svg?style=social)
 - [**Motif-Guided Time Series Counterfactual Explanations**](https://link.springer.com/chapter/10.1007/978-3-031-37731-0_16) (2022) by *Li, P., Boubrahimi, S. F., & Hamdi, S. M.* [https://github.com/Luckilyeee/Motif-guided-counterfactual-explanation](https://github.com/Luckilyeee/Motif-guided-counterfactual-explanation), ![](https://img.shields.io/github/stars/Luckilyeee/Motif-guided-counterfactual-explanation.svg?style=social)
 - [**Attention-Based Counterfactual Explanation for Multivariate Time Series**](https://link.springer.com/chapter/10.1007/978-3-031-39831-5_26) (2023) by *Li, P., Boubrahimi, S. F., & Hamdi, S. M.* [https://sites.google.com/view/attention-based-cf](https://sites.google.com/view/attention-based-cf)
+
+### Frameworks (Multiple Explanation Types)
+- [**Understanding Any Time Series Classifier with a Subsequence-based Explainer**](https://dl.acm.org/doi/pdf/10.1145/3624480) , (2023) by *Spinnato, F., Guidotti, R., Monreale, A., Nanni, M., Pedreschi, D., & Giannotti, F.* [https://github.com/fspinna/lasts](https://github.com/fspinna/lasts), ![](https://img.shields.io/github/stars/fspinna/lasts.svg?style=social)
+  
 
 
 ## Regression / Forecasting
