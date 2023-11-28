@@ -12,8 +12,10 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 - [Benchmarking and Evaluation](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Benchmarking-and-Evaluation)
 
 ## Surveys
+- [**Post Hoc Explainability for Time Series Classification: Toward a signal processing perspective**](https://ieeexplore.ieee.org/document/9810094) , (2022) by *R. Mochaourab, A. Venkitaraman, I. Samsten, P. Papapetrou and C. R. Rojas*
 - [**Explainable AI for time series classification: a review, taxonomy and research directions**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9895252) , (2022) by *A Theissler, F Spinnato, U Schlegel, R Guidotti*
 - [**Explainable artificial intelligence (xai) on timeseries data: A survey**](https://arxiv.org/abs/2104.00950) , (2021) by *Rojat, T., Puget, R., Filliat, D., Del Ser, J., Gelin, R., & Díaz-Rodríguez, N.*
+- [**XAI Methods for Neural Time Series Classification: A Brief Review**](https://arxiv.org/abs/2108.08009) , (2021) by *Simic, I., Sabol, V., Veas, E.*
 
   
 ## Libraries 
@@ -26,6 +28,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
   
 
 ### Feature Attribution
+- [**Explaining time series classifiers through meaningful perturbation and optimisation**](https://doi.org/10.1016/j.ins.2023.119334), (2023), by *H Meng, C Wagner, I Triguero*
 - [**Explainable AI for Time Series via Virtual Inspection Layers**](https://arxiv.org/pdf/2303.06365) , (2023) by *Vielhaben, J., Lapuschkin, S., Montavon, G., & Samek, W.*
 - [**LIMESegment: Meaningful, Realistic Time Series Explanations**](https://proceedings.mlr.press/v151/sivill22a.html) , (2022) by *Sivill, T., & Flach, P.*, [https://github.com/TortySivill/LIMESegment](https://github.com/TortySivill/LIMESegment), ![](https://img.shields.io/github/stars/TortySivill/LIMESegment.svg?style=social)
 - [**TSInsight: A local-global attribution framework for interpretability in time series data**](https://www.mdpi.com/1424-8220/21/21/7373)(2021) by *Siddiqui, S. A., Mercier, D., Dengel, A., & Ahmed, S.*
