@@ -28,7 +28,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
   
 
 ### Feature Attribution
-- [**Explaining time series classifiers through meaningful perturbation and optimisation**](https://doi.org/10.1016/j.ins.2023.119334), (2023), by *H Meng, C Wagner, I Triguero*
+- [**Explaining time series classifiers through meaningful perturbation and optimisation**](https://doi.org/10.1016/j.ins.2023.119334), (2023), by *H Meng, C Wagner, I Triguero* [https://github.com/menghan1994/ETSC_through_Meainingful_Perturbation_and_Optimisation](https://github.com/menghan1994/ETSC_through_Meainingful_Perturbation_and_Optimisation), ![](https://img.shields.io/github/stars/menghan1994/ETSC_through_Meainingful_Perturbation_and_Optimisation.svg?style=social)
 - [**Explainable AI for Time Series via Virtual Inspection Layers**](https://arxiv.org/pdf/2303.06365) , (2023) by *Vielhaben, J., Lapuschkin, S., Montavon, G., & Samek, W.*
 - [**LIMESegment: Meaningful, Realistic Time Series Explanations**](https://proceedings.mlr.press/v151/sivill22a.html) , (2022) by *Sivill, T., & Flach, P.*, [https://github.com/TortySivill/LIMESegment](https://github.com/TortySivill/LIMESegment), ![](https://img.shields.io/github/stars/TortySivill/LIMESegment.svg?style=social)
 - [**TSInsight: A local-global attribution framework for interpretability in time series data**](https://www.mdpi.com/1424-8220/21/21/7373)(2021) by *Siddiqui, S. A., Mercier, D., Dengel, A., & Ahmed, S.*
