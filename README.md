@@ -37,6 +37,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 - [**What went wrong and when? Instance-wise feature importance for time-series black-box models**](https://papers.nips.cc/paper_files/paper/2020/file/08fa43588c2571ade19bc0fa5936e028-Paper.pdf) (2020) by *Tonekaboni, S., Joshi, S., Campbell, K., Duvenaud, D. K., & Goldenberg, A.* [https://github.com/sanatonek/time_series_explainability](https://github.com/sanatonek/time_series_explainability), ![](https://img.shields.io/github/stars/sanatonek/time_series_explainability.svg?style=social)
 - [**Agnostic Local Explanation for Time Series Classification**](https://ieeexplore.ieee.org/document/8995349) (2019) by *Guillemé, M., Masson, V., Rozé, L., & Termier, A. *
 - [**timeXplain -- A Framework for Explaining the Predictions of Time Series Classifiers**](https://arxiv.org/abs/2007.07606) (2019) by *Mujkanovic, F., Doskoč, V., Schirneck, M., Schäfer, P., & Friedrich, T.* [https://github.com/LoadingByte/timeXplain](https://github.com/LoadingByte/timeXplain), ![](https://img.shields.io/github/stars/LoadingByte/timeXplain.svg?style=social)
+- [**Tsxplain: Demystification of dnn decisions for time-series using natural language and statistical features**](https://link.springer.com/chapter/10.1007/978-3-030-30493-5_43) (2019) by *Munir, M., Siddiqui, S. A., Küsters, F., Mercier, D., Dengel, A., & Ahmed, S.* 
 - [**MTEX-CNN: Multivariate Time Series EXplanations for Predictions with Convolutional Neural Networks**](https://ieeexplore.ieee.org/document/8970899) (2019) by *Assaf, R., Giurgiu, I., Bagehorn, F., & Schumann, A.*
 
 ### Counterfactuals 
@@ -81,10 +82,11 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 
 ## Ante-Hoc Explanation
 While this repository mostly focuses on post-hoc explanations - i.e. introducing the explanations after the training of the predictor, this section includes some approches that include explanability into the predicors design (e.g., via architecture or training).
+### Classification
 - [**Xcm: An explainable convolutional neural network for multivariate time series classification**](https://www.mdpi.com/2227-7390/9/23/3137) (2021) by *Fauvel, K., Lin, T., Masson, V., Fromont, É., & Termier, A.* [https://github.com/XAIseries/XCM](https://github.com/XAIseries/XCM), ![](https://img.shields.io/github/stars/XAIseries/XCM.svg?style=social)
 - [**Explaining Deep Classification of Time-Series Data with Learned Prototypes**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8050893/) (2019) by *Gee, A. H., Garcia-Olano, D., Ghosh, J., & Paydarfar, D.* [https://github.com/alangee/ijcai19-ts-prototypes](https://github.com/alangee/ijcai19-ts-prototypes), ![](https://img.shields.io/github/stars/alangee/ijcai19-ts-prototypes.svg?style=social)
 - [**Medical Time Series Classification with Hierarchical Attention-based Temporal
 Convolutional Networks: A Case Study of Myotonic Dystrophy Diagnosis**](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Explainable%20AI/Lin_Medical_Time_Series_Classification_with_Hierarchical_Attention-based_Temporal_Convolutional_Networks_CVPRW_2019_paper.pdf) (2019) by *Lin, L., Xu, B., Wu, W., Richardson, T. W., & Bernal, E. A.*
-- [**Explainable Failure Predictions with RNN Classifiers based on Time Series Data**](https://arxiv.org/abs/1901.08554) (2019) by *Giurgiu, I., & Schumann, A.* 
-
-
+- [**Explainable Failure Predictions with RNN Classifiers based on Time Series Data**](https://arxiv.org/abs/1901.08554) (2019) by *Giurgiu, I., & Schumann, A.*
+### Forecasting
+- [**A memory-network based solution for multivariate time-series forecasting**](https://arxiv.org/abs/1809.02105) (2018) by *Chang, Y. Y., Sun, F. Y., Wu, Y. H., & Lin, S. D.* 
