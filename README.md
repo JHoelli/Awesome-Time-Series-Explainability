@@ -68,8 +68,8 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 
 ## Ante-Hoc Explanation
 While this repository mostly focuses on post-hoc explanations - i.e. introducing the explanations after the training of the predictor, this section includes some approches that include explanability into the predicors design (e.g., via architecture or training).
-
 - [**Explaining Deep Classification of Time-Series Data with Learned Prototypes**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8050893/) (2019) by *Gee, A. H., Garcia-Olano, D., Ghosh, J., & Paydarfar, D.* [https://github.com/alangee/ijcai19-ts-prototypes](https://github.com/alangee/ijcai19-ts-prototypes), ![](https://img.shields.io/github/stars/alangee/ijcai19-ts-prototypes.svg?style=social)
+- [**Xcm: An explainable convolutional neural network for multivariate time series classification**](https://www.mdpi.com/2227-7390/9/23/3137) (2021) by *Fauvel, K., Lin, T., Masson, V., Fromont, É., & Termier, A.* [https://github.com/XAIseries/XCM](https://github.com/XAIseries/XCM), ![](https://img.shields.io/github/stars/XAIseries/XCM.svg?style=social)
 
 
 
