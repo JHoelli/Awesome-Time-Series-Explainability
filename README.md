@@ -1,5 +1,5 @@
 # Awesome-Time-Series-Explainability
-A list of XAI for time series. This list focuses (currently) on Post-Hoc Explainability for time series data, including paper and github links.
+A list of XAI for time series. This list focuses (currently) on Post-Hoc Explainability for time series data, including paper and github links. The list is expanded and updated gradually.
 <img src="https://github.com/fzi-forschungszentrum-informatik/TSInterpret/blob/main/docs/img/Post-Hoc.png" width="600"
 />
 
@@ -10,6 +10,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 - [Regression / Forecasting](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Regression-/-Forecasting)
 - [Classification and Regression / Forcasting](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Classification-and-Regression-/-Forcasting)
 - [Benchmarking and Evaluation](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Benchmarking-and-Evaluation)
+- [Ante-Hoc Explanations](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Ante-Hoc-Explanation)
 
 ## Surveys
 - [**Post Hoc Explainability for Time Series Classification: Toward a signal processing perspective**](https://ieeexplore.ieee.org/document/9810094) , (2022) by *R. Mochaourab, A. Venkitaraman, I. Samsten, P. Papapetrou and C. R. Rojas*
@@ -82,5 +83,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 While this repository mostly focuses on post-hoc explanations - i.e. introducing the explanations after the training of the predictor, this section includes some approches that include explanability into the predicors design (e.g., via architecture or training).
 - [**Xcm: An explainable convolutional neural network for multivariate time series classification**](https://www.mdpi.com/2227-7390/9/23/3137) (2021) by *Fauvel, K., Lin, T., Masson, V., Fromont, É., & Termier, A.* [https://github.com/XAIseries/XCM](https://github.com/XAIseries/XCM), ![](https://img.shields.io/github/stars/XAIseries/XCM.svg?style=social)
 - [**Explaining Deep Classification of Time-Series Data with Learned Prototypes**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8050893/) (2019) by *Gee, A. H., Garcia-Olano, D., Ghosh, J., & Paydarfar, D.* [https://github.com/alangee/ijcai19-ts-prototypes](https://github.com/alangee/ijcai19-ts-prototypes), ![](https://img.shields.io/github/stars/alangee/ijcai19-ts-prototypes.svg?style=social)
+- [**Medical Time Series Classification with Hierarchical Attention-based Temporal
+Convolutional Networks: A Case Study of Myotonic Dystrophy Diagnosis**](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Explainable%20AI/Lin_Medical_Time_Series_Classification_with_Hierarchical_Attention-based_Temporal_Convolutional_Networks_CVPRW_2019_paper.pdf) (2019) by *Lin, L., Xu, B., Wu, W., Richardson, T. W., & Bernal, E. A.* 
 
 
