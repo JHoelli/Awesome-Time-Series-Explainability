@@ -66,12 +66,6 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 - [**Tsviz: Demystification of deep learning models for time-series analysis**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8695734) (2019) by *Siddiqui, S. A., Mercier, D., Munir, M., Dengel, A., & Ahmed, S.* [https://github.com/shoaibahmed/TSViz-Core](https://github.com/shoaibahmed/TSViz-Core), ![](https://img.shields.io/github/stars/shoaibahmed/TSViz-Core.svg?style=social)
 - [**Learning Perturbations to Explain Time Series Predictions**](https://arxiv.org/pdf/2305.18840.pdf) (2023) by *Enguehard, J.* [https://github.com/josephenguehard/time_interpret](https://github.com/josephenguehard/time_interpret), ![](https://img.shields.io/github/stars/josephenguehard/time_interpret.svg?style=social)
 
-## Ante-Hoc Explanation
-While this repository mostly focuses on post-hoc explanations - i.e. introducing the explanations after the training of the predictor, this section includes some approches that include explanability into the predicors design (e.g., via architecture or training).
-- [**Explaining Deep Classification of Time-Series Data with Learned Prototypes**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8050893/) (2019) by *Gee, A. H., Garcia-Olano, D., Ghosh, J., & Paydarfar, D.* [https://github.com/alangee/ijcai19-ts-prototypes](https://github.com/alangee/ijcai19-ts-prototypes), ![](https://img.shields.io/github/stars/alangee/ijcai19-ts-prototypes.svg?style=social)
-- [**Xcm: An explainable convolutional neural network for multivariate time series classification**](https://www.mdpi.com/2227-7390/9/23/3137) (2021) by *Fauvel, K., Lin, T., Masson, V., Fromont, É., & Termier, A.* [https://github.com/XAIseries/XCM](https://github.com/XAIseries/XCM), ![](https://img.shields.io/github/stars/XAIseries/XCM.svg?style=social)
-
-
 
 ## Benchmarking and Evaluation
 - [**Evaluation of post-hoc interpretability methods in time-series classification**](https://www.nature.com/articles/s42256-023-00620-w), (2023) by *Turbé, H., Bjelogrlic, M., Lovis, C. et al.*, [https://github.com/hturbe/InterpretTime](https://github.com/hturbe/InterpretTime), ![](https://img.shields.io/github/stars/mlgig/amee.svg?style=social)
@@ -81,4 +75,12 @@ While this repository mostly focuses on post-hoc explanations - i.e. introducing
 - [**Evaluating Explanation Methods for Multivariate Time Series Classification**](https://arxiv.org/abs/2308.15223), (2023) by *Serramazza, D. I., Nguyen, T. T., Nguyen, T. L., & Ifrim, G. * [https://github.com/mlgig/Evaluating-Explanation-Methods-for-MTSC](https://github.com/mlgig/Evaluating-Explanation-Methods-for-MTSC), ![](https://img.shields.io/github/stars/mlgig/Evaluating-Explanation-Methods-for-MTSC.svg?style=social)
 - [**XTSC-Bench: Quantitative Benchmarking for Explainers on Time Series Classification**](https://arxiv.org/pdf/2310.14957.pdf), (2023) by *Höllig, J., Thoma, S., & Grimm, F.* [https://github.com/JHoelli/XTSC-Bench](https://github.com/JHoelli/XTSC-Bench), ![](https://img.shields.io/github/stars/JHoelli/XTSC-Bench.svg?style=social)
 - [**Time to Focus: A Comprehensive Benchmark Using Time Series Attribution Methods**](https://arxiv.org/abs/2202.03759), (2022) by *Mercier, D., Bhatt, J., Dengel, A., & Ahmed, S.*
-- [**Towards a rigorous evaluation of XAI methods on time series**](https://ieeexplore.ieee.org/document/9022428), (2019) by *Schlegel, U., Arnout, H., El-Assady, M., Oelke, D., & Keim, D. A.* 
+- [**Towards a rigorous evaluation of XAI methods on time series**](https://ieeexplore.ieee.org/document/9022428), (2019) by *Schlegel, U., Arnout, H., El-Assady, M., Oelke, D., & Keim, D. A.*
+
+
+## Ante-Hoc Explanation
+While this repository mostly focuses on post-hoc explanations - i.e. introducing the explanations after the training of the predictor, this section includes some approches that include explanability into the predicors design (e.g., via architecture or training).
+- [**Xcm: An explainable convolutional neural network for multivariate time series classification**](https://www.mdpi.com/2227-7390/9/23/3137) (2021) by *Fauvel, K., Lin, T., Masson, V., Fromont, É., & Termier, A.* [https://github.com/XAIseries/XCM](https://github.com/XAIseries/XCM), ![](https://img.shields.io/github/stars/XAIseries/XCM.svg?style=social)
+- [**Explaining Deep Classification of Time-Series Data with Learned Prototypes**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8050893/) (2019) by *Gee, A. H., Garcia-Olano, D., Ghosh, J., & Paydarfar, D.* [https://github.com/alangee/ijcai19-ts-prototypes](https://github.com/alangee/ijcai19-ts-prototypes), ![](https://img.shields.io/github/stars/alangee/ijcai19-ts-prototypes.svg?style=social)
+
+
