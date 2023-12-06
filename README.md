@@ -66,7 +66,12 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 - [**Tsviz: Demystification of deep learning models for time-series analysis**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8695734) (2019) by *Siddiqui, S. A., Mercier, D., Munir, M., Dengel, A., & Ahmed, S.* [https://github.com/shoaibahmed/TSViz-Core](https://github.com/shoaibahmed/TSViz-Core), ![](https://img.shields.io/github/stars/shoaibahmed/TSViz-Core.svg?style=social)
 - [**Learning Perturbations to Explain Time Series Predictions**](https://arxiv.org/pdf/2305.18840.pdf) (2023) by *Enguehard, J.* [https://github.com/josephenguehard/time_interpret](https://github.com/josephenguehard/time_interpret), ![](https://img.shields.io/github/stars/josephenguehard/time_interpret.svg?style=social)
 
-  
+## Ante-Hoc Explanation
+While this repository mostly focuses on post-hoc explanations - i.e. introducing the explanations after the training of the predictor, this section includes some approches that include explanability into the predicors design (e.g., via architecture or training).
+
+- [**Explaining Deep Classification of Time-Series Data with Learned Prototypes**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8050893/) (2019) by *Gee, A. H., Garcia-Olano, D., Ghosh, J., & Paydarfar, D.* [https://github.com/alangee/ijcai19-ts-prototypes](https://github.com/alangee/ijcai19-ts-prototypes), ![](https://img.shields.io/github/stars/alangee/ijcai19-ts-prototypes.svg?style=social)
+
+
 
 ## Benchmarking and Evaluation
 - [**Evaluation of post-hoc interpretability methods in time-series classification**](https://www.nature.com/articles/s42256-023-00620-w), (2023) by *Turbé, H., Bjelogrlic, M., Lovis, C. et al.*, [https://github.com/hturbe/InterpretTime](https://github.com/hturbe/InterpretTime), ![](https://img.shields.io/github/stars/mlgig/amee.svg?style=social)
