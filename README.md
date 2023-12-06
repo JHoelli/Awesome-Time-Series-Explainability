@@ -89,4 +89,5 @@ While this repository mostly focuses on post-hoc explanations - i.e. introducing
 Convolutional Networks: A Case Study of Myotonic Dystrophy Diagnosis**](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Explainable%20AI/Lin_Medical_Time_Series_Classification_with_Hierarchical_Attention-based_Temporal_Convolutional_Networks_CVPRW_2019_paper.pdf) (2019) by *Lin, L., Xu, B., Wu, W., Richardson, T. W., & Bernal, E. A.*
 - [**Explainable Failure Predictions with RNN Classifiers based on Time Series Data**](https://arxiv.org/abs/1901.08554) (2019) by *Giurgiu, I., & Schumann, A.*
 ### Forecasting
+- [**Temporal fusion transformers for interpretable multi-horizon time series forecasting**](https://www.sciencedirect.com/science/article/pii/S0169207021000637) (2021) by *Lim, B., Arık, S. Ö., Loeff, N., & Pfister, T.* 
 - [**A memory-network based solution for multivariate time-series forecasting**](https://arxiv.org/abs/1809.02105) (2018) by *Chang, Y. Y., Sun, F. Y., Wu, Y. H., & Lin, S. D.* 
