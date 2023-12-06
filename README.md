@@ -54,7 +54,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
   
 
 
-## Regression / Forecasting
+## Forecasting
 
 - [**TsSHAP: Robust model agnostic feature-based explainability for univariate time series forecasting**](https://arxiv.org/pdf/2303.12316.pdf) (2023) by *Raykar, V. C., Jati, A., Mukherjee, S., Aggarwal, N., Sarpatwar, K., Ganapavarapu, G., & Vaculin, R.*
 - [**Counterfactual Explanations for Time Series Forecasting**](https://arxiv.org/abs/2310.08137) (2023) by *Wang, Z., Miliou, I., Samsten, I., & Papapetrou, P.*  [https://github.com/zhendong3wang/counterfactual-explanations-for-forecasting](https://github.com/zhendong3wang/counterfactual-explanations-for-forecasting), ![](https://img.shields.io/github/stars/zhendong3wang/counterfactual-explanations-for-forecasting.svg?style=social)
