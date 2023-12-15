@@ -70,7 +70,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 
 
 ## Benchmarking and Evaluation
-- [**Introducing the Attribution Stability Indicator: a Measure for Time Series XAI Attributions**](https://arxiv.org/pdf/2307.05104.pdf), (2023) by *Schlegel, U., & Keim, D. A.*,  [https://github.com/visual-xai-for-time-series/time-series-xai-perturbation-analysis](https://github.com/visual-xai-for-time-series/time-series-xai-perturbation-analysis), ![](https://img.shields.io/github/stars/visual-xai-for-time-series/time-series-xai-perturbation-analysis.svg?style=social)
+- [**A Deep Dive into Perturbations as Evaluation Technique for Time Series XAI**](https://arxiv.org/pdf/2307.05104.pdf), (2023) by *Schlegel, U., & Keim, D. A.*,  [https://github.com/visual-xai-for-time-series/time-series-xai-perturbation-analysis](https://github.com/visual-xai-for-time-series/time-series-xai-perturbation-analysis), ![](https://img.shields.io/github/stars/visual-xai-for-time-series/time-series-xai-perturbation-analysis.svg?style=social)
 - [**Evaluation of post-hoc interpretability methods in time-series classification**](https://www.nature.com/articles/s42256-023-00620-w), (2023) by *Turbé, H., Bjelogrlic, M., Lovis, C. et al.*, [https://github.com/hturbe/InterpretTime](https://github.com/hturbe/InterpretTime), ![](https://img.shields.io/github/stars/hturbe/InterpretTime.svg?style=social)
 - [**A Deep Dive into Perturbations as Evaluation Technique for Time Series XAI**](https://arxiv.org/pdf/2307.05104), (2023) by *Schlegel, U., & Keim, D. A.*
 - [**Introducing the Attribution Stability Indicator: a Measure for Time Series XAI Attributions**](https://arxiv.org/abs/2310.04178), (2023) by *Schlegel, U., & Keim, D. A. *
