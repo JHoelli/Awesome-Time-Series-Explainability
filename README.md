@@ -55,7 +55,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 
 
 ## Forecasting
-
+- [**ShapTime: A General XAI Approach for Explainable Time Series Forecasting**](https://link.springer.com/chapter/10.1007/978-3-031-47721-8_45) (2024) by *Zhang, Y., Sun, Q., Qi, D., Liu, J., Ma, R., & Petrosian, O.* [https://github.com/Zhangyuyi-0825/ShapTime](https://github.com/Zhangyuyi-0825/ShapTime), ![](https://img.shields.io/github/stars/Zhangyuyi-0825/ShapTime.svg?style=social) 
 - [**TsSHAP: Robust model agnostic feature-based explainability for univariate time series forecasting**](https://arxiv.org/pdf/2303.12316.pdf) (2023) by *Raykar, V. C., Jati, A., Mukherjee, S., Aggarwal, N., Sarpatwar, K., Ganapavarapu, G., & Vaculin, R.*
 - [**Counterfactual Explanations for Time Series Forecasting**](https://arxiv.org/abs/2310.08137) (2023) by *Wang, Z., Miliou, I., Samsten, I., & Papapetrou, P.*  [https://github.com/zhendong3wang/counterfactual-explanations-for-forecasting](https://github.com/zhendong3wang/counterfactual-explanations-for-forecasting), ![](https://img.shields.io/github/stars/zhendong3wang/counterfactual-explanations-for-forecasting.svg?style=social)
 - [**TEMPORAL DEPENDENCIES IN FEATURE IMPORTANCE FOR TIME SERIES PREDICTION**](https://www.cs.toronto.edu/~mvolkovs/ICLR23_WinIT.pdf) (2023) by *Leung, K. K., Rooke, C., Smith, J., Zuberi, S., & Volkovs, M.*  [https://github.com/layer6ai-labs/WinIT](https://github.com/layer6ai-labs/WinIT), ![](https://img.shields.io/github/stars/layer6ai-labs/WinIT.svg?style=social)
