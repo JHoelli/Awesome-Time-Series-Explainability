@@ -43,6 +43,8 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 
 
 ### Counterfactuals 
+- [**Glacier: guided locally constrained counterfactual
+explanations for time series classification**](https://link.springer.com/content/pdf/10.1007/s10994-023-06502-x.pdf) (2024) by *Wang, Z., Samsten, I., Miliou, I., Mochaourab, R., & Papapetrou, P.* [https://github.com/zhendong3wang/learning-time-series-counterfactuals](https://github.com/zhendong3wang/learning-time-series-counterfactuals), ![](https://img.shields.io/github/stars/zhendong3wang/learning-time-series-counterfactuals.svg?style=social) 
 - [**Attention-Based Counterfactual Explanation for Multivariate Time Series**](https://link.springer.com/chapter/10.1007/978-3-031-39831-5_26) (2023) by *Li, P., Boubrahimi, S. F., & Hamdi, S. M.* [https://sites.google.com/view/attention-based-cf](https://sites.google.com/view/attention-based-cf)
 - [**Shapelet-Based Counterfactual Explanations for Multivariate Time Series**](https://arxiv.org/abs/2208.10462) (2022) by *Bahri, O., Boubrahimi, S. F., & Hamdi, S. M.* [https://github.com/omarbahri/SETS](https://github.com/omarbahri/SETS), ![](https://img.shields.io/github/stars/omarbahri/SETS.svg?style=social)
 - [**TSEvo: Evolutionary counterfactual explanations for time series classification**](https://ieeexplore.ieee.org/abstract/document/10069160) (2022) by *Höllig, J., Kulbach, C., & Thoma, S.* [https://github.com/JHoelli/TSEvo](https://github.com/JHoelli/TSEvo), ![](https://img.shields.io/github/stars/JHoelli/TSEvo.svg?style=social)
