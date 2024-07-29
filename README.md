@@ -13,7 +13,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 - [Ante-Hoc Explanations](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Ante-Hoc-Explanation)
 
 ## Surveys
-- [**A Survey of Explainable Artificial Intelligence (XAI) in Financial Time Series Forecasting**](https://arxiv.org/pdf/2407.15909) , (2024) by *Arsenault, P. D., Wang, S., & Patenande, J. M. *
+- [**A Survey of Explainable Artificial Intelligence (XAI) in Financial Time Series Forecasting**](https://arxiv.org/pdf/2407.15909) , (2024) by *Arsenault, P. D., Wang, S., & Patenande, J. M.*
 - [**Post Hoc Explainability for Time Series Classification: Toward a signal processing perspective**](https://ieeexplore.ieee.org/document/9810094) , (2022) by *R. Mochaourab, A. Venkitaraman, I. Samsten, P. Papapetrou and C. R. Rojas*
 - [**Explainable AI for time series classification: a review, taxonomy and research directions**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9895252) , (2022) by *A Theissler, F Spinnato, U Schlegel, R Guidotti*
 - [**Explainable artificial intelligence (xai) on timeseries data: A survey**](https://arxiv.org/abs/2104.00950) , (2021) by *Rojat, T., Puget, R., Filliat, D., Del Ser, J., Gelin, R., & Díaz-Rodríguez, N.*
@@ -75,6 +75,7 @@ explanations for time series classification**](https://link.springer.com/content
 
 
 ## Benchmarking and Evaluation
+- [**XAI for Time Series Classification: Evaluating the Benefits of Model Inspection for End-Users**](https://link.springer.com/chapter/10.1007/978-3-031-63800-8_22), (2024) by *Håvardstun, B., Ferri, C., Flikka, K., & Telle, J. A*  
 - [**A Deep Dive into Perturbations as Evaluation Technique for Time Series XAI**](https://arxiv.org/pdf/2307.05104.pdf), (2023) by *Schlegel, U., & Keim, D. A.*,  [https://github.com/visual-xai-for-time-series/time-series-xai-perturbation-analysis](https://github.com/visual-xai-for-time-series/time-series-xai-perturbation-analysis), ![](https://img.shields.io/github/stars/visual-xai-for-time-series/time-series-xai-perturbation-analysis.svg?style=social)
 - [**Evaluation of post-hoc interpretability methods in time-series classification**](https://www.nature.com/articles/s42256-023-00620-w), (2023) by *Turbé, H., Bjelogrlic, M., Lovis, C. et al.*, [https://github.com/hturbe/InterpretTime](https://github.com/hturbe/InterpretTime), ![](https://img.shields.io/github/stars/hturbe/InterpretTime.svg?style=social)
 - [**A Deep Dive into Perturbations as Evaluation Technique for Time Series XAI**](https://arxiv.org/pdf/2307.05104), (2023) by *Schlegel, U., & Keim, D. A.*
