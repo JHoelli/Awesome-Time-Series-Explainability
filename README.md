@@ -13,6 +13,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 - [Ante-Hoc Explanations](https://github.com/JHoelli/Awesome-Time-Series-Explainability#Ante-Hoc-Explanation)
 
 ## Surveys
+- [**A Survey of Explainable Artificial Intelligence (XAI) in Financial Time Series Forecasting**](https://arxiv.org/pdf/2407.15909) , (2024) by *Arsenault, P. D., Wang, S., & Patenande, J. M. *
 - [**Post Hoc Explainability for Time Series Classification: Toward a signal processing perspective**](https://ieeexplore.ieee.org/document/9810094) , (2022) by *R. Mochaourab, A. Venkitaraman, I. Samsten, P. Papapetrou and C. R. Rojas*
 - [**Explainable AI for time series classification: a review, taxonomy and research directions**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9895252) , (2022) by *A Theissler, F Spinnato, U Schlegel, R Guidotti*
 - [**Explainable artificial intelligence (xai) on timeseries data: A survey**](https://arxiv.org/abs/2104.00950) , (2021) by *Rojat, T., Puget, R., Filliat, D., Del Ser, J., Gelin, R., & Díaz-Rodríguez, N.*
