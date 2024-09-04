@@ -31,7 +31,8 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
   
 
 ### Feature Attribution
-
+- [**Time is Not Enough: Time-Frequency based Explanation for
+Time-Series Black-Box Models**](https://arxiv.org/pdf/2408.03636), (2024), by *Chung, H., Jo, S., Kwon, Y., & Choi, E. * [https://github.com//gustmd0121/time_is_not_enough](https://github.com/gustmd0121/time_is_not_enough), ![](https://img.shields.io/github/stars/gustmd0121/time_is_not_enough.svg?style=social)
 - [**Translating Image XAI to Multivariate Time Series**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10439172), (2024), by *Tronchin, L., Cordelli, E., Celsi, L. R., Maccagnola, D., Natale, M., Soda, P., & Sicilia, R.* [https://github.com//ltronchin/translating-xai-mts](https://github.com/ltronchin/translating-xai-mts), ![](https://img.shields.io/github/stars/ltronchin/translating-xai-mts.svg?style=social)
 - [**Explaining time series classifiers through meaningful perturbation and optimisation**](https://doi.org/10.1016/j.ins.2023.119334), (2023), by *H Meng, C Wagner, I Triguero* [https://github.com/menghan1994/ETSC_through_Meainingful_Perturbation_and_Optimisation](https://github.com/menghan1994/ETSC_through_Meainingful_Perturbation_and_Optimisation), ![](https://img.shields.io/github/stars/menghan1994/ETSC_through_Meainingful_Perturbation_and_Optimisation.svg?style=social)
 - [**Explainable AI for Time Series via Virtual Inspection Layers**](https://arxiv.org/pdf/2303.06365) , (2023) by *Vielhaben, J., Lapuschkin, S., Montavon, G., & Samek, W.*
