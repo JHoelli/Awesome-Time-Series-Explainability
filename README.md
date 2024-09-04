@@ -45,7 +45,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 
 
 ### Counterfactuals 
-- 
+- [**CELS: Counterfactual Explanations for Time Series Data via Learned Saliency Maps**](https://ieeexplore.ieee.org/abstract/document/10386229) (2023) by *Li, P., Bahri, O., Boubrahimi, S. F., & Hamdi, S. M.* [https://github.com/Luckilyeee/CELS](https://github.com/Luckilyeee/CELS), ![](https://img.shields.io/github/stars/Luckilyeee/CELS.svg?style=social) 
 - [**Glacier: guided locally constrained counterfactual
 explanations for time series classification**](https://link.springer.com/content/pdf/10.1007/s10994-023-06502-x.pdf) (2024) by *Wang, Z., Samsten, I., Miliou, I., Mochaourab, R., & Papapetrou, P.* [https://github.com/zhendong3wang/learning-time-series-counterfactuals](https://github.com/zhendong3wang/learning-time-series-counterfactuals), ![](https://img.shields.io/github/stars/zhendong3wang/learning-time-series-counterfactuals.svg?style=social) 
 - [**Attention-Based Counterfactual Explanation for Multivariate Time Series**](https://link.springer.com/chapter/10.1007/978-3-031-39831-5_26) (2023) by *Li, P., Boubrahimi, S. F., & Hamdi, S. M.* [https://sites.google.com/view/attention-based-cf](https://sites.google.com/view/attention-based-cf)
