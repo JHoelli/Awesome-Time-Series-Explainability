@@ -31,6 +31,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
   
 
 ### Feature Attribution
+
 - [**Translating Image XAI to Multivariate Time Series**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10439172), (2024), by *Tronchin, L., Cordelli, E., Celsi, L. R., Maccagnola, D., Natale, M., Soda, P., & Sicilia, R.* [https://github.com//ltronchin/translating-xai-mts](https://github.com/ltronchin/translating-xai-mts), ![](https://img.shields.io/github/stars/ltronchin/translating-xai-mts.svg?style=social)
 - [**Explaining time series classifiers through meaningful perturbation and optimisation**](https://doi.org/10.1016/j.ins.2023.119334), (2023), by *H Meng, C Wagner, I Triguero* [https://github.com/menghan1994/ETSC_through_Meainingful_Perturbation_and_Optimisation](https://github.com/menghan1994/ETSC_through_Meainingful_Perturbation_and_Optimisation), ![](https://img.shields.io/github/stars/menghan1994/ETSC_through_Meainingful_Perturbation_and_Optimisation.svg?style=social)
 - [**Explainable AI for Time Series via Virtual Inspection Layers**](https://arxiv.org/pdf/2303.06365) , (2023) by *Vielhaben, J., Lapuschkin, S., Montavon, G., & Samek, W.*
@@ -45,6 +46,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 
 
 ### Counterfactuals 
+- [**Sub-SpaCE: Subsequence-Based Sparse Counterfactual Explanations for Time Series Classification Problems**](https://link.springer.com/chapter/10.1007/978-3-031-63800-8_1) (2024) by *Refoyo, M., & Luengo, D.* [https://github.com/MarioRefoyo/Sub-SpaCE](https://github.com/MarioRefoyo/Sub-SpaCE), ![](https://img.shields.io/github/stars/MarioRefoyo/Sub-SpaCE.svg?style=social) 
 - [**CELS: Counterfactual Explanations for Time Series Data via Learned Saliency Maps**](https://ieeexplore.ieee.org/abstract/document/10386229) (2023) by *Li, P., Bahri, O., Boubrahimi, S. F., & Hamdi, S. M.* [https://github.com/Luckilyeee/CELS](https://github.com/Luckilyeee/CELS), ![](https://img.shields.io/github/stars/Luckilyeee/CELS.svg?style=social) 
 - [**Glacier: guided locally constrained counterfactual
 explanations for time series classification**](https://link.springer.com/content/pdf/10.1007/s10994-023-06502-x.pdf) (2024) by *Wang, Z., Samsten, I., Miliou, I., Mochaourab, R., & Papapetrou, P.* [https://github.com/zhendong3wang/learning-time-series-counterfactuals](https://github.com/zhendong3wang/learning-time-series-counterfactuals), ![](https://img.shields.io/github/stars/zhendong3wang/learning-time-series-counterfactuals.svg?style=social) 
