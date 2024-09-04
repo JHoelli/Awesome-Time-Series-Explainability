@@ -45,6 +45,7 @@ A list of XAI for time series. This list focuses (currently) on Post-Hoc Explain
 
 
 ### Counterfactuals 
+- 
 - [**Glacier: guided locally constrained counterfactual
 explanations for time series classification**](https://link.springer.com/content/pdf/10.1007/s10994-023-06502-x.pdf) (2024) by *Wang, Z., Samsten, I., Miliou, I., Mochaourab, R., & Papapetrou, P.* [https://github.com/zhendong3wang/learning-time-series-counterfactuals](https://github.com/zhendong3wang/learning-time-series-counterfactuals), ![](https://img.shields.io/github/stars/zhendong3wang/learning-time-series-counterfactuals.svg?style=social) 
 - [**Attention-Based Counterfactual Explanation for Multivariate Time Series**](https://link.springer.com/chapter/10.1007/978-3-031-39831-5_26) (2023) by *Li, P., Boubrahimi, S. F., & Hamdi, S. M.* [https://sites.google.com/view/attention-based-cf](https://sites.google.com/view/attention-based-cf)
@@ -55,8 +56,10 @@ explanations for time series classification**](https://link.springer.com/content
 - [**Instance-based Counterfactual Explanations for Time Series Classification**](https://arxiv.org/abs/2009.13211) (2020) by *Delaney, E., Greene, D., & Keane, M. T.* [https://github.com/e-delaney/Instance-Based_CFE_TSC](https://github.com/e-delaney/Instance-Based_CFE_TSC), ![](https://img.shields.io/github/stars/e-delaney/Instance-Based_CFE_TSC.svg?style=social)
 
 ### Frameworks (Multiple Explanation Types)
+- [**ExTea: An Evolutionary Algorithm-Based Approach for Enhancing Explainability in Time-Series Models**](https://link.springer.com/chapter/10.1007/978-3-031-70381-2_27) (2024) by *Huang, Y., Zhou, Y., Zhao, H., Fang, L., Riedel, T., & Beigl, M* [https://github.com/HuangYiran/extea](https://github.com/HuangYiran/extea), ![](https://img.shields.io/github/stars/HuangYiran/extea.svg?style=social) 
 - [**Understanding Any Time Series Classifier with a Subsequence-based Explainer**](https://dl.acm.org/doi/pdf/10.1145/3624480) , (2023) by *Spinnato, F., Guidotti, R., Monreale, A., Nanni, M., Pedreschi, D., & Giannotti, F.* [https://github.com/fspinna/lasts](https://github.com/fspinna/lasts), ![](https://img.shields.io/github/stars/fspinna/lasts.svg?style=social)
 - [**TimeSHAP: Explaining Recurrent Models through Sequence Perturbations**](https://arxiv.org/abs/2012.00073), (2020) by *Bento, J., Saleiro, P., Cruz, A. F., Figueiredo, M. A., & Bizarro, P.*, [https://github.com/feedzai/timeshap](https://github.com/feedzai/timeshap), ![](https://img.shields.io/github/stars/feedzai/timeshap.svg?style=social)
+
   
 
 
